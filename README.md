@@ -8,6 +8,6 @@ Here the following path of our project:
 4. implement model
 5. fit model and evaluate model
 6. hyperparameter tuning  and visualize data
-7. perdict data
+7. predict data
 
 this stage cover 6-first steps mentioned above
